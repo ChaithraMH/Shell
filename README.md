@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts for referrence
+Schell Scripts for referrence and practices
